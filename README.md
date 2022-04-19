@@ -15,11 +15,11 @@ Outputs
 
 Dataset and Weights
 ---------------------
-| Dataset            | No of Parameters | F-1 Score | Weights |
-|:--------------------------:|:------------------:|-------------------------:|-------------------------:|
-|Aksu                       | 8 Batch-Size                | **0,564**                      | [Timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                   |
-|Kestel                         | 16 Batch-Size                 | 0,525                      | [Inceptionv4.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                 |
-|Aksu + Kestel Combined                       | 16 Batch-Size                 | 0,511                     | [Densenet201.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)   
+| Dataset            | Model | F-1 Score | IoU | Weights |
+|:--------------------------:|:------------------:|-------------------------:|-------------------------:| -------------------------:|
+|Aksu                       | DeepLabv3+ Resnext-50_32x_4d             | 94.35  | 89.46 |[Resnext-50_32x_4d_for_Aksu](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                   |
+|Kestel                         | DeepLabv3+ Resnext-50_32x_4d                | 89.65  | 89.76 |                      | [Resnext-50_32x_4d_for_Aksu_for_Kestel](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                 |
+|Aksu + Kestel Combined                       | DeepLabv3+ Resnext-50_32x_4d                 | 92.85  | 92.83 |                    | [Resnext-50_32x_4d_for_Aksu_Aksu_Kestel](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)   
 
 
 System-specific notes
