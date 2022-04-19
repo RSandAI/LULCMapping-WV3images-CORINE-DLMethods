@@ -15,9 +15,12 @@ Outputs
 
 Dataset and Weights
 ---------------------
-Dataset used in this study made publicly available [here]([PLACEHOLDER])
+| Dataset            | No of Parameters | F-1 Score | Weights |
+|:--------------------------:|:------------------:|-------------------------:|-------------------------:|
+|Aksu                       | 8 Batch-Size                | **0,564**                      | [Timm-resnest200e.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                   |
+|Kestel                         | 16 Batch-Size                 | 0,525                      | [Inceptionv4.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                 |
+|Aksu + Kestel Combined                       | 16 Batch-Size                 | 0,511                     | [Densenet201.pth](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)   
 
-Weights can be found [here](https://drive.google.com/drive/folders/1Hpmsn9eVq1yvbmFh5oNWUmBZvFG6jDox?usp=sharing).
 
 System-specific notes
 ---------------------
