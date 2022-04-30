@@ -1,6 +1,11 @@
 # A MULTI-TASK DEEP LEARNING FRAMEWORK FOR BUILDING FOOTPRINT SEGMENTATION
 This repository contains the code for the paper [Land Use and Land Cover Mapping Using Deep Learning Based Segmentation Approaches and VHR Worldview-3 Images]([PLACEHOLDER])
 
+Aim
+---------------------
+
+In this research, we generated a new benchmark dataset from VHR Worldview-3 images for twelve different LULC classes of two different geographical locations. We evaluated the performance of different segmentation architectures and encoders to find out the best solution to create highly accurate LULC maps. 
+
 Framework
 ---------------------
 The framework of this study is detailed as follow. 
