@@ -25,9 +25,9 @@ Dataset and Weights
 ---------------------
 | Dataset            | Model | F-1 Score | IoU | Weights |
 |:--------------------------:|:------------------:|-------------------------:|-------------------------:| -------------------------:|
-|Aksu                       | DeepLabv3+ Resnext-50_32x_4d             | 94.35  | 89.46 |[weights](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                   |
-|Kestel                         | DeepLabv3+ Resnext-50_32x_4d                | 89.65  | 89.76 |[weights](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)                 |
-|Aksu + Kestel Combined                       | DeepLabv3+ Resnext-50_32x_4d                 | 92.85  | 92.83 |[weights](https://drive.google.com/drive/folders/146HRDz-075PTf-pyUQO-1ZrU4X1UQ5L2)   
+|Aksu                       | DeepLabv3+ Resnext-50_32x_4d             | 94.35  | 89.46 |[weights](https://drive.google.com/drive/u/0/folders/1DdH4eiUFgtX3iOjkM-pu6DknOgtg1GAL)                   |
+|Kestel                         | DeepLabv3+ Resnext-50_32x_4d                | 89.65  | 89.76 |[weights](https://drive.google.com/drive/u/0/folders/1DdH4eiUFgtX3iOjkM-pu6DknOgtg1GAL)                 |
+|Aksu + Kestel Combined                       | DeepLabv3+ Resnext-50_32x_4d                 | 92.85  | 92.83 |[weights](https://drive.google.com/drive/u/0/folders/1DdH4eiUFgtX3iOjkM-pu6DknOgtg1GAL)   
 
 
 System-specific notes
