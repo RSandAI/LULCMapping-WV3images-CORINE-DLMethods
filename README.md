@@ -39,4 +39,4 @@ Citation
 ---------------------
 Please kindly cite our paper if this code and the dataset used in the study is useful for your research.
 
-[PLACEHOLDER]
+Sertel, E.; Ekim, B.; Ettehadi Osgouei, P.; Kabadayi, M.E. Land Use and Land Cover Mapping Using Deep Learning Based Segmentation Approaches and VHR Worldview-3 Images. Remote Sens. 2022, 14, 4558. https://doi.org/10.3390/rs14184558
