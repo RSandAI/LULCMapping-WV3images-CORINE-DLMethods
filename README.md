@@ -32,6 +32,7 @@ Dataset and Weights
 The dataset and the weights can be found [here](https://drive.google.com/drive/folders/1a2FPc1-itu1V9_Q4n9aaWB4GV9MGeOqh?usp=sharing).
 
 
+
 System-specific notes
 ---------------------
 The code was implemented in Python(3.8) and PyTroch(1.14.0) on Windows OS. The *segmentation models pytorch* library is used as a baseline for implementation. Apart from main data science libraries, RS-specific libraries such as GDAL, rasterio, and tifffile are also required.
