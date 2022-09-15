@@ -29,6 +29,8 @@ Dataset and Weights
 |Kestel                         | DeepLabv3+ Resnext-50_32x_4d                | 89.65  | 89.76 |[weights](https://drive.google.com/drive/u/0/folders/1DdH4eiUFgtX3iOjkM-pu6DknOgtg1GAL)                 |
 |Aksu + Kestel Combined                       | DeepLabv3+ Resnext-50_32x_4d                 | 92.85  | 92.83 |[weights](https://drive.google.com/drive/u/0/folders/1DdH4eiUFgtX3iOjkM-pu6DknOgtg1GAL)   
 
+The dataset and the weights can be found [here](https://drive.google.com/drive/folders/1a2FPc1-itu1V9_Q4n9aaWB4GV9MGeOqh).
+
 
 System-specific notes
 ---------------------
