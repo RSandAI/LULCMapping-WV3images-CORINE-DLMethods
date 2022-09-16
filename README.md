@@ -25,9 +25,9 @@ Dataset and Weights
 ---------------------
 | Dataset            | Model | F-1 Score | IoU | Weights |
 |:--------------------------:|:------------------:|-------------------------:|-------------------------:| -------------------------:|
-|Aksu                       | DeepLabv3+ Resnext-50_32x_4d             | 94.35  | 89.46 |[weights](https://drive.google.com/drive/u/0/folders/1DdH4eiUFgtX3iOjkM-pu6DknOgtg1GAL)                   |
-|Kestel                         | DeepLabv3+ Resnext-50_32x_4d                | 89.65  | 89.76 |[weights](https://drive.google.com/drive/u/0/folders/1DdH4eiUFgtX3iOjkM-pu6DknOgtg1GAL)                 |
-|Aksu + Kestel Combined                       | DeepLabv3+ Resnext-50_32x_4d                 | 92.85  | 92.83 |[weights](https://drive.google.com/drive/u/0/folders/1DdH4eiUFgtX3iOjkM-pu6DknOgtg1GAL)   
+|Aksu                       | DeepLabv3+ Resnext-50_32x_4d             | 94.35  | 89.46 |[weights](https://drive.google.com/drive/u/0/folders/1FBR7nEgv7jL3HpbxmYia5s-nytgSMSZ_)                   |
+|Kestel                         | DeepLabv3+ Resnext-50_32x_4d                | 89.65  | 89.76 |[weights](https://drive.google.com/drive/u/0/folders/12WG6KSkoNDb1W9uIlOt-tLDUYYIH3b-V)                 |
+|Aksu + Kestel Combined                       | DeepLabv3+ Resnext-50_32x_4d                 | 92.85  | 92.83 |[weights](https://drive.google.com/drive/u/0/folders/1srBzye2Smw8J78rJX4CARQAS7DY3iDlW)   
 
 The dataset and the weights can be found [here](https://drive.google.com/drive/folders/1a2FPc1-itu1V9_Q4n9aaWB4GV9MGeOqh?usp=sharing).
 
